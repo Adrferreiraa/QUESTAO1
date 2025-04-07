@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Página Exemplo</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>LISTA 1 - QUESTÃO 1!</h1>
+</header>
+ 
+    <section>
+<h2>Sobre mim</h2>
+<p>Países que gostaria de conhecer são: Portugal, EUA e França. Para trabalho eu escolheria EUA, acredito que a mão de obra é mais valorizada nesse país. Pretendo fazer um curso/intercambio para agilizar minha fluência na lingua inglesa e poder realizar meu sonho que é morar em outro país.</p>
+</section>
+
+</body>
+</html>
